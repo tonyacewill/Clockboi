@@ -1,0 +1,39 @@
+#clock {
+    font-size: 60px;
+    color: #9eb4fff1; 
+    width: 500px;
+    margin: 20px;
+    text-align: center;
+    border: 5px solid rgb(40, 248, 255);
+    border-radius: 40px;
+  }
+  body {
+    background-image: url("https://images.unsplash.com/photo-1489370603040-dc6c28a1d37a?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1189&q=80"); 
+        background-repeat:no-repeat;
+       background-size:cover;
+} 
+  ul {
+    text-align: center;
+    color: yellow;
+    font-size: 50px;
+}
+h1 {
+    text-align: center;
+    color: yellow;
+    font-size: 100px;
+}
+h2 {
+    text-align: center;
+    color: yellow;
+    font-size: 80px;
+}
+h3 {
+    text-align: center;
+    color: yellow;
+    font-size: 30px;
+}
+h4 {
+    text-align: center;
+    color: yellow;
+    font-size: 20px;
+}
